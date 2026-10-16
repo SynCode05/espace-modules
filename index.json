@@ -1,0 +1,10 @@
+{
+  "profiles": [
+    {
+      "id": "eeng-p2028-robotique",
+      "name": "EENG P2028 · majeure Robotique",
+      "description": "S5–S6, puis S7–S8 en majeure Robotique (syllabus EENG4 2026-2027)",
+      "file": "profiles/eeng-p2028-robotique.json"
+    }
+  ]
+}
