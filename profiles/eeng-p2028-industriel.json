@@ -1,0 +1,324 @@
+{
+  "name": "EENG P2028 · majeure Génie industriel",
+  "description": "S5–S6, puis S7–S8 en majeure Génie industriel (Industrial Engineering and Supply Chain Management) (syllabus EENG4 2026-2027)",
+  "date": "2026-10-23",
+  "version": "1",
+  "moduleConfig": {
+    "5": {
+      "__modules__": [
+        "Mathematics for Engineers 5",
+        "Mechanical Engineering 5",
+        "Electrical Engineering 5",
+        "Industrial Organisation 5",
+        "Multidisciplinary Project 5",
+        "Society, Management & Entrepreneurship 5"
+      ],
+      "Mathematics for Engineers 5": {
+        "subjects": [
+          "Mathematics for Engineers 5",
+          "Network & Security"
+        ],
+        "coefficients": {
+          "Mathematics for Engineers 5": 75,
+          "Network & Security": 25
+        }
+      },
+      "Mechanical Engineering 5": {
+        "subjects": [
+          "Strength of Materials",
+          "Materials 2",
+          "Introduction to Heat Transfer"
+        ],
+        "coefficients": {
+          "Strength of Materials": 40,
+          "Materials 2": 25,
+          "Introduction to Heat Transfer": 35
+        }
+      },
+      "Electrical Engineering 5": {
+        "subjects": [
+          "Electrical Machines"
+        ],
+        "coefficients": {
+          "Electrical Machines": 100
+        }
+      },
+      "Industrial Organisation 5": {
+        "subjects": [
+          "Industrial Methods",
+          "Industrial Organisation"
+        ],
+        "coefficients": {
+          "Industrial Methods": 30,
+          "Industrial Organisation": 70
+        }
+      },
+      "Multidisciplinary Project 5": {
+        "subjects": [
+          "Ecodesign Project Part 1 - Environment",
+          "Ecodesign Project Part 1 - Technical"
+        ],
+        "coefficients": {
+          "Ecodesign Project Part 1 - Environment": 50,
+          "Ecodesign Project Part 1 - Technical": 50
+        }
+      },
+      "Society, Management & Entrepreneurship 5": {
+        "subjects": [
+          "Professional Engineering Project",
+          "Engineering Ethics",
+          "Advanced English Skills 5: IELTS Preparation"
+        ],
+        "coefficients": {
+          "Professional Engineering Project": 15,
+          "Engineering Ethics": 35,
+          "Advanced English Skills 5: IELTS Preparation": 50
+        }
+      }
+    },
+    "6": {
+      "__modules__": [
+        "Robotics and Automation Engineering 6",
+        "Mathematics for Engineers 6",
+        "Control Engineering 6",
+        "Systems Engineering 6",
+        "Multidisciplinary Project 6",
+        "Society, Management & Entrepreneurship 6"
+      ],
+      "Robotics and Automation Engineering 6": {
+        "subjects": [
+          "Introduction to Robotics",
+          "Signal Processing + Wireless Communications",
+          "Sensing & Perception"
+        ],
+        "coefficients": {
+          "Introduction to Robotics": 35,
+          "Sensing & Perception": 25,
+          "Signal Processing + Wireless Communications": 40
+        }
+      },
+      "Mathematics for Engineers 6": {
+        "subjects": [
+          "Probabilities and Inferential Statistics",
+          "Object-Oriented Programming"
+        ],
+        "coefficients": {
+          "Probabilities and Inferential Statistics": 65,
+          "Object-Oriented Programming": 35
+        }
+      },
+      "Control Engineering 6": {
+        "subjects": [
+          "Introduction to Control Theory",
+          "Power Electronics"
+        ],
+        "coefficients": {
+          "Introduction to Control Theory": 60,
+          "Power Electronics": 40
+        }
+      },
+      "Systems Engineering 6": {
+        "subjects": [
+          "Quality",
+          "Vibrations"
+        ],
+        "coefficients": {
+          "Quality": 40,
+          "Vibrations": 60
+        }
+      },
+      "Multidisciplinary Project 6": {
+        "subjects": [
+          "Ecodesign Project Part 2 - Environment",
+          "Ecodesign Project Part 2 - Technical"
+        ],
+        "coefficients": {
+          "Ecodesign Project Part 2 - Environment": 50,
+          "Ecodesign Project Part 2 - Technical": 50
+        }
+      },
+      "Society, Management & Entrepreneurship 6": {
+        "subjects": [
+          "Principles of Marketing",
+          "Global Affairs",
+          "Advanced English Skills 6",
+          "Professional Project"
+        ],
+        "coefficients": {
+          "Principles of Marketing": 25,
+          "Global Affairs": 25,
+          "Advanced English Skills 6": 35,
+          "Professional Project": 15
+        }
+      }
+    },
+    "7": {
+      "__modules__": [
+        "Sustainable Management 7",
+        "Society, Management & Entrepreneurship 7",
+        "Systems Engineering 7",
+        "Applied Internship",
+        "Innovation Project 7",
+        "Industrial Engineering and Supply Chain Management 7"
+      ],
+      "Sustainable Management 7": {
+        "credits": 4,
+        "subjects": [
+          "Operational Quality and Lean Management",
+          "Carbon Footprint",
+          "Research Methods"
+        ],
+        "coefficients": {
+          "Operational Quality and Lean Management": 35,
+          "Carbon Footprint": 35,
+          "Research Methods": 30
+        }
+      },
+      "Society, Management & Entrepreneurship 7": {
+        "credits": 2,
+        "subjects": [
+          "Pitch for Entrepreneurship",
+          "Sales"
+        ],
+        "coefficients": {
+          "Pitch for Entrepreneurship": 50,
+          "Sales": 50
+        }
+      },
+      "Systems Engineering 7": {
+        "credits": 4,
+        "subjects": [
+          "Multibody Dynamics Systems",
+          "Electrical Machines and Drives"
+        ],
+        "coefficients": {
+          "Multibody Dynamics Systems": 50,
+          "Electrical Machines and Drives": 50
+        }
+      },
+      "Applied Internship": {
+        "credits": 3,
+        "subjects": [
+          "Applied Internship"
+        ],
+        "coefficients": {
+          "Applied Internship": 100
+        }
+      },
+      "Innovation Project 7": {
+        "credits": 5,
+        "subjects": [
+          "IP Project Management",
+          "IP Users Research",
+          "IP Ideation",
+          "IP Marketing",
+          "IP Requirements"
+        ],
+        "coefficients": {
+          "IP Project Management": 20,
+          "IP Users Research": 15,
+          "IP Ideation": 20,
+          "IP Marketing": 25,
+          "IP Requirements": 20
+        }
+      },
+      "Industrial Engineering and Supply Chain Management 7": {
+        "credits": 12,
+        "subjects": [
+          "Manufacturing Digital Transformation",
+          "The Blue Connection",
+          "Global Supply Chain and Information System"
+        ],
+        "coefficients": {
+          "Manufacturing Digital Transformation": 30,
+          "The Blue Connection": 30,
+          "Global Supply Chain and Information System": 40
+        }
+      }
+    },
+    "8": {
+      "__modules__": [
+        "Data Engineering",
+        "Sustainable Management 8",
+        "Society, Management & Entrepreneurship 8",
+        "Innovation Project 8 - Road to Business",
+        "Innovation Project 8 - Engineering Developments",
+        "Industrial Engineering and Supply Chain Management 8"
+      ],
+      "Data Engineering": {
+        "credits": 4,
+        "subjects": [
+          "Data",
+          "Operations Research",
+          "Introduction to AI"
+        ],
+        "coefficients": {
+          "Data": 40,
+          "Operations Research": 30,
+          "Introduction to AI": 30
+        }
+      },
+      "Sustainable Management 8": {
+        "credits": 5,
+        "subjects": [
+          "Innovation Management and Intellectual Property",
+          "Circular Economy",
+          "Corporate Social Responsibility",
+          "Climate transformation of industries"
+        ],
+        "coefficients": {
+          "Innovation Management and Intellectual Property": 50,
+          "Circular Economy": 10,
+          "Corporate Social Responsibility": 20,
+          "Climate transformation of industries": 20
+        }
+      },
+      "Society, Management & Entrepreneurship 8": {
+        "credits": 2,
+        "subjects": [
+          "Strategy",
+          "Change Management"
+        ],
+        "coefficients": {
+          "Strategy": 50,
+          "Change Management": 50
+        }
+      },
+      "Innovation Project 8 - Road to Business": {
+        "credits": 3,
+        "subjects": [
+          "IP Business Plan",
+          "IP Project Closure"
+        ],
+        "coefficients": {
+          "IP Business Plan": 60,
+          "IP Project Closure": 40
+        }
+      },
+      "Innovation Project 8 - Engineering Developments": {
+        "credits": 4,
+        "subjects": [
+          "IP Project Management and Technical Requirements",
+          "IP Technical Deployment"
+        ],
+        "coefficients": {
+          "IP Project Management and Technical Requirements": 40,
+          "IP Technical Deployment": 60
+        }
+      },
+      "Industrial Engineering and Supply Chain Management 8": {
+        "credits": 12,
+        "subjects": [
+          "Industry of the Future",
+          "CSCA Certification",
+          "Robust Supply Chain"
+        ],
+        "coefficients": {
+          "Industry of the Future": 50,
+          "CSCA Certification": 30,
+          "Robust Supply Chain": 20
+        }
+      }
+    }
+  }
+}

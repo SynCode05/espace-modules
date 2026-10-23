@@ -12,7 +12,12 @@ le relevé officiel de l'ECAM qui fait foi.
 
 | Profil | Fichier |
 |---|---|
+| EENG P2028 · majeure Énergie (S5–S8) | `profiles/eeng-p2028-energie.json` |
+| EENG P2028 · majeure Génie industriel (S5–S8) | `profiles/eeng-p2028-industriel.json` |
+| EENG P2028 · majeure Mécanique (S5–S8) | `profiles/eeng-p2028-mecanique.json` |
 | EENG P2028 · majeure Robotique (S5–S8) | `profiles/eeng-p2028-robotique.json` |
+
+S5–S6 sont le tronc commun ; en S7–S8 seuls les 12 ECTS de la majeure changent.
 
 ## Ajouter ou corriger un profil
 

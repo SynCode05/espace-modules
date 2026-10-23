@@ -1,6 +1,24 @@
 {
   "profiles": [
     {
+      "id": "eeng-p2028-energie",
+      "name": "EENG P2028 · majeure Énergie",
+      "description": "S5–S6, puis S7–S8 en majeure Énergie (Sustainable Energy and Environmental Engineering) (syllabus EENG4 2026-2027)",
+      "file": "profiles/eeng-p2028-energie.json"
+    },
+    {
+      "id": "eeng-p2028-industriel",
+      "name": "EENG P2028 · majeure Génie industriel",
+      "description": "S5–S6, puis S7–S8 en majeure Génie industriel (Industrial Engineering and Supply Chain Management) (syllabus EENG4 2026-2027)",
+      "file": "profiles/eeng-p2028-industriel.json"
+    },
+    {
+      "id": "eeng-p2028-mecanique",
+      "name": "EENG P2028 · majeure Mécanique",
+      "description": "S5–S6, puis S7–S8 en majeure Mécanique (Mechanical Engineering) (syllabus EENG4 2026-2027)",
+      "file": "profiles/eeng-p2028-mecanique.json"
+    },
+    {
       "id": "eeng-p2028-robotique",
       "name": "EENG P2028 · majeure Robotique",
       "description": "S5–S6, puis S7–S8 en majeure Robotique (syllabus EENG4 2026-2027)",
